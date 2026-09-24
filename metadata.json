@@ -1,0 +1,6 @@
+{
+  "name": "Singing Bowl US Buyer Prospector & Email Outreach Hub",
+  "description": "Trigger search for USA singing bowl buyers, view detailed store profiles, compose outreach emails, and track delivery success and bounce reasons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
